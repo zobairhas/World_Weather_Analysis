@@ -3,9 +3,11 @@ config.py
 
 # Adding additional files.
 API_practice.ipynb
-random_numbers.ipynb
+random_practice.ipynb
 WeatherPy.ipynb
 
+# Ignore folder?
+06-APIs
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

@@ -32,15 +32,15 @@ In order to create this I did the following:
 - I saved the vacation data as a CSV. 
 - Then I used the Gmaps marker layer to construct a map with markers for all of my cities. I also applied some formating so that the Hotel Name, City, Country, and Current Description with Max Temp would display. 
 - This was the output:
-```insert image link```
+![WeatherPy_vacation_map](https://user-images.githubusercontent.com/44425379/153501155-5a782123-826b-4aa4-be34-dde09679ab76.png)
 
 ### Create a Travel Itinerary Map
 - My vacation data was already saved as a CSV file so I imported the file as a DataFrame.
 - Then I used the Gmaps marker layer to construct a map with markers for all of my cities. I also applied some formating so that the Hotel Name, City, Country, and Current Description with Max Temp would display. 
 - After that I filtered the data so that only four cities would display. Then I used the Gmaps directions layer to set waypoints between the four cities. 
 - This was the output:
-```insert image```
+![WeatherPy_travel_map](https://user-images.githubusercontent.com/44425379/153501337-fed6e874-b771-434c-8a65-ced49d414593.png)
 
--Finally, I added the Gmaps marker layer to the same four cities with the same format/info as the previous marker layers. 
--This was the output:
-```insert image```
+- Finally, I added the Gmaps marker layer to the same four cities with the same format/info as the previous marker layers. 
+- This was the output:
+![WeatherPy_travel_map_markers](https://user-images.githubusercontent.com/44425379/153501387-42b4d564-b83c-4129-822e-91e2ecb0206a.png)

@@ -1,13 +1,9 @@
 # Adding config.py file
 config.py
 
-# Adding additional files.
-API_practice.ipynb
-random_practice.ipynb
-WeatherPy.ipynb
-
 # Ignore folder?
-06-APIs
+Resources/
+weather_data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
